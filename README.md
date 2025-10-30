@@ -48,6 +48,8 @@ question-2/
 -   npm
 
 ```bash
+git clone https://github.com/cxycode32/radar-chart.git
+cd radar-chart/
 npm install
 npm run dev
 ```
